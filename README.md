@@ -82,3 +82,8 @@ Developed interactive dashboards with:
 - Certain services influence churn behavior
 
 ---
+
+## Dashboard Images
+-Check Churn_analysis_ss.pdf
+
+---
